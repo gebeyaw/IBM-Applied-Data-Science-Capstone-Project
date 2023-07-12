@@ -9,6 +9,7 @@ predict whether the SpaceX Falcon 9 first stage will successfully land.
 • Exploratory data analysis
 • Interactive data visualization
 • Machine learning prediction
+
 Our graphs illustrate that several aspects of rocket launches are related to the success or failure of the launches.It is also found that the decision tree is the best machine learning technique for predicting whether the Falcon 9 first stage will successfully land.
 
 ## Introduction
